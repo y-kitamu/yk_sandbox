@@ -1,3 +1,6 @@
 [submodule "ext/argparse"]
 	path = ext/argparse
 	url = https://github.com/p-ranav/argparse.git
+[submodule "ext/libtiff"]
+	path = ext/libtiff
+	url = https://gitlab.com/libtiff/libtiff.git
